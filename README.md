@@ -1,16 +1,17 @@
-### Hi there 👋
+# Välkommen!
 
-<!--
-**stnhlm/stnhlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Välkommen till min Github-profil. Här kan du läsa information om mig och vad jag lärt mig under min utbildning på Webbutvecklingsprogrammet vid Mittuniversitetet.
 
-Here are some ideas to get you started:
+## Kunskaper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vad jag lärt mig än så länge:
+
+* HTML
+* CSS
+* JavaScript
+
+Utöver detta kommer vi längre fram i utbildningen lära oss PHP, C# och SQL.
+
+### Tack för besöket
+
+Tack för att du besökte min profil!
